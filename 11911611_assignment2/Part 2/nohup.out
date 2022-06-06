@@ -1,0 +1,19 @@
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch: 10 	Training Loss: 1.249 	Test Loss: 1.532
+train accuracy: .3f	test accuracy: .3f
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch: 10 	Training Loss: 1.017 	Test Loss: 1.281
+Traceback (most recent call last):
+  File "cnn_train.py", line 148, in <module>
+    main()
+  File "cnn_train.py", line 129, in main
+    train()
+  File "cnn_train.py", line 112, in train
+    print('train accuracy: {.3f}\ttest accuracy: {.3f}'.format(percent_train,  percent_test) )
+AttributeError: 'float' object has no attribute '3f'
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified

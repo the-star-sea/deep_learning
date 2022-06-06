@@ -1,0 +1,7 @@
+In part1,part2,part3,there are part1.ipynb,part2.ipynb,part3.ipynb.
+And part1.ipynb and part3.ipynb should not run in a cuda environment.If the task3 cannot run well,please use torch_cifar.py.It is not my problem because the code is the same.
+part2.ipynb should work in cuda environment.I suggest u to use cnn_train.py because .py always performs better(the code is also the same.But jupyter obtains more resource and my pc cannot work well)
+I test part1 and part3 in my pc without cuda.It works perfect.
+And I test part2 in my server with cuda10.2.It also works well.
+I design this because the server I use has been banned.And I should test it on my own PC for part1 and part3.
+If u have any problem,u can ask me to show u on my PC and server.

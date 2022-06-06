@@ -1,0 +1,4 @@
+Part1 contains perceptron code,u can run the main function
+Part2&3 contains two ipynb file,which can draw the loss and accuracy picture of train and test of BGD and SGD
+Report contains report pdf and a ipynb file.U can run the ipynb file because there is instruction which can draw picture by using train_mlp_numpy.py(need running for a while)
+Thank u!
